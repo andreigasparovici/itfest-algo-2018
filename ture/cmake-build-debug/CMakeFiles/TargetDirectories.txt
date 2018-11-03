@@ -1,0 +1,3 @@
+/home/solcanmihai/Desktop/ture/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/solcanmihai/Desktop/ture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/solcanmihai/Desktop/ture/cmake-build-debug/CMakeFiles/ture.dir

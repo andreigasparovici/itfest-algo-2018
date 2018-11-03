@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Itfest_algoritmica.dir/main.cpp.o  -o Itfest_algoritmica 

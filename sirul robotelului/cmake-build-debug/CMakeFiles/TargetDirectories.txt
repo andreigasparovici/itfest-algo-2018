@@ -1,0 +1,3 @@
+/home/solcanmihai/Desktop/Itfest-algoritmica/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/solcanmihai/Desktop/Itfest-algoritmica/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/solcanmihai/Desktop/Itfest-algoritmica/cmake-build-debug/CMakeFiles/Itfest_algoritmica.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hotare.dir/main.cpp.o  -o hotare 
