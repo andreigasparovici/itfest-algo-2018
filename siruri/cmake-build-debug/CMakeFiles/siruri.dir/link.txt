@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/siruri.dir/main.cpp.o  -o siruri 

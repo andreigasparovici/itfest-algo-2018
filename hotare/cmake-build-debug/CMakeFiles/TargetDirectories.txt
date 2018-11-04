@@ -1,0 +1,3 @@
+/home/solcanmihai/Desktop/hotare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/solcanmihai/Desktop/hotare/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/solcanmihai/Desktop/hotare/cmake-build-debug/CMakeFiles/hotare.dir
