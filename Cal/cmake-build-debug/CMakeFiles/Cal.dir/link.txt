@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Cal.dir/main.cpp.o  -o Cal 

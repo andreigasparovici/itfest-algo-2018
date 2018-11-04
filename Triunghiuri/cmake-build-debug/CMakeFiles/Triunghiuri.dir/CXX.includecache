@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrei/CLionProjects/itfest-algo-2018/Triunghiuri/main.cpp
+iostream
+-
+cstdio
+-
+vector
+-
+algorithm
+-
+unordered_map
+-
+map
+-
+set
+-
+

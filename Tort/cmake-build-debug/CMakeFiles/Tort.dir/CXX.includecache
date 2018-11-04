@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/andrei/CLionProjects/itfest-algo-2018/Tort/main.cpp
+iostream
+-
+cstdio
+-
+algorithm
+-
+vector
+-
+set
+-
+

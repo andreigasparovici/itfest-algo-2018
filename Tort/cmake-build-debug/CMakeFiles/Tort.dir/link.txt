@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tort.dir/main.cpp.o  -o Tort 

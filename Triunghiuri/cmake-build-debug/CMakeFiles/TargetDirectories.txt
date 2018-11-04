@@ -1,0 +1,3 @@
+/home/andrei/CLionProjects/itfest-algo-2018/Triunghiuri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andrei/CLionProjects/itfest-algo-2018/Triunghiuri/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andrei/CLionProjects/itfest-algo-2018/Triunghiuri/cmake-build-debug/CMakeFiles/Triunghiuri.dir
